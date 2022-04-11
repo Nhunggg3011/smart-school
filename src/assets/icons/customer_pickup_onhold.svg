@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.653" height="82.002" viewBox="0 0 73.653 82.002">
+  <g id="Group_12107" data-name="Group 12107" transform="translate(0 0.002)">
+    <path id="ic_directions_run_24px" d="M37.02,14.359a6.44,6.44,0,1,0-6.44-6.44A6.459,6.459,0,0,0,37.02,14.359ZM25.429,59.115l3.22-14.167,6.762,6.44V70.707h6.44V46.558l-6.762-6.44,1.932-9.66a23.577,23.577,0,0,0,17.709,8.05v-6.44a15.839,15.839,0,0,1-13.845-7.728l-3.22-5.152a6.641,6.641,0,0,0-5.474-3.22c-.966,0-1.61.322-2.576.322L12.871,23.375V38.508h6.44V27.561l5.8-2.254L19.955,51.387,4.178,48.168,2.89,54.607Z" transform="translate(-2.891 -1.482)" fill="#1cb69a"/>
+    <g id="Group_12105" data-name="Group 12105" transform="translate(21.726 30.287)">
+      <g id="Ellipse_431" data-name="Ellipse 431" transform="translate(-0.074 -0.286)" fill="#1cb69a" stroke="#fff" stroke-linejoin="bevel" stroke-width="5">
+        <circle cx="26" cy="26" r="26" stroke="none"/>
+        <circle cx="26" cy="26" r="23.5" fill="none"/>
+      </g>
+      <line id="Line_72" data-name="Line 72" x2="21.633" transform="translate(15.109 25.714)" fill="none" stroke="#fff" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

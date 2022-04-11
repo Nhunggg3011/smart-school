@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.01" height="20.8" viewBox="0 0 21.01 20.8">
+  <g id="Group_5155" data-name="Group 5155" transform="translate(-34.445 -35)">
+    <g id="Grid" transform="translate(34.618 35)">
+      <g id="Group_5153" data-name="Group 5153" transform="translate(0 0)">
+        <path id="Path_2880" data-name="Path 2880" d="M36.487,55.8a.987.987,0,0,1-.7-1.684L54.616,35.289a.986.986,0,0,1,1.395,1.395L37.184,55.511A.983.983,0,0,1,36.487,55.8Z" transform="translate(-35.5 -35)" fill="#b4bfd9"/>
+      </g>
+    </g>
+    <g id="Line" transform="translate(34.445 38.152)">
+      <path id="Path_2881" data-name="Path 2881" d="M44.95,56.14c3.668,0,7.121,3.817,8.412,5.426-1.291,1.609-4.744,5.426-8.412,5.426s-7.121-3.817-8.412-5.426c1.291-1.609,4.744-5.426,8.412-5.426m0-1.973c-4.7,0-8.709,4.543-10.223,6.51a1.544,1.544,0,0,0,0,1.779c1.514,1.966,5.519,6.51,10.223,6.51s8.709-4.543,10.223-6.51a1.543,1.543,0,0,0,0-1.779c-1.513-1.966-5.519-6.51-10.223-6.51Z" transform="translate(-34.445 -54.167)" fill="#b4bfd9"/>
+      <g id="Group_5154" data-name="Group 5154" transform="translate(6.23 3.261)">
+        <path id="Path_2882" data-name="Path 2882" d="M76.608,82.55a4.275,4.275,0,1,1,4.275-4.275A4.28,4.28,0,0,1,76.608,82.55Zm0-6.577a2.3,2.3,0,1,0,2.3,2.3A2.3,2.3,0,0,0,76.608,75.973Z" transform="translate(-72.333 -74)" fill="#b4bfd9"/>
+      </g>
+    </g>
+  </g>
+</svg>

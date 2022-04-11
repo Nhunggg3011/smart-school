@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "smartschool-c7391",
+    "dev": "smartschool-c7391",
+    "master": "smartschool-prod"
+  }
+}

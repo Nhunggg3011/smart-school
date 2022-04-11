@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="542px" height="378px" viewBox="0 0 542 378" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Blob_BG</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F679A3" offset="0%"></stop>
+            <stop stop-color="#E9446A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="97.0872471%" id="linearGradient-2">
+            <stop stop-color="#F6DC79" offset="0%"></stop>
+            <stop stop-color="#FF9E7B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="010_Signin" transform="translate(50.000000, 176.000000)">
+            <g id="Blob_BG" transform="translate(-50.000000, -176.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="354" cy="188" r="188"></circle>
+                <circle id="Oval-Copy" fill="url(#linearGradient-2)" cx="118" cy="162" r="118"></circle>
+                <circle id="Oval-Copy-4" fill="url(#linearGradient-2)" cx="292" cy="334" r="2"></circle>
+                <circle id="Oval-Copy-7" fill="url(#linearGradient-2)" cx="181" cy="349" r="4"></circle>
+                <circle id="Oval-Copy-5" fill="url(#linearGradient-2)" cx="309.5" cy="309.5" r="3.5"></circle>
+                <circle id="Oval-Copy-8" fill="url(#linearGradient-2)" cx="164" cy="315" r="2"></circle>
+                <circle id="Oval-Copy-6" fill="url(#linearGradient-2)" cx="324" cy="364" r="5"></circle>
+                <circle id="Oval-Copy-9" fill="url(#linearGradient-2)" cx="150" cy="375" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

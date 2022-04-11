@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="79" viewBox="0 0 79 79">
+  <g id="CRM-IconSet-43" transform="translate(0.098 -0.06)">
+    <g id="Grid" transform="translate(0 0)">
+      <rect id="Rectangle_1882" data-name="Rectangle 1882" width="79" height="79" transform="translate(-0.098 0.06)" fill="none"/>
+    </g>
+    <g id="Line" transform="translate(16.182 13.871)">
+      <path id="Path_2844" data-name="Path 2844" d="M83.507,47.5H78.828a16.078,16.078,0,0,0-31.74,0H42.409A2.017,2.017,0,0,0,40.48,49.6V81.278a2.017,2.017,0,0,0,1.929,2.095h41.1a2.017,2.017,0,0,0,1.929-2.095V49.6A2.017,2.017,0,0,0,83.507,47.5ZM62.958,38.629A11.464,11.464,0,0,1,74.11,47.5h-22.3A11.464,11.464,0,0,1,62.958,38.629ZM80.807,78.346h-35.7V52.532h35.7Z" transform="translate(-40.48 -34)" fill="#414141"/>
+    </g>
+  </g>
+</svg>

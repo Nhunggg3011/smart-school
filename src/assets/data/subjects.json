@@ -1,0 +1,45 @@
+[{
+  "value": "toan",
+  "label": "Toán",
+  "color": "red"
+},{
+  "value": "ly",
+  "label": "Vật lý",
+  "color": "green"
+},{
+  "value": "hoa",
+  "label": "Hoá học",
+  "color": "blue"
+},{
+  "value": "van",
+  "label": "Văn học",
+  "color": "#0091FF"
+},{
+  "value": "su",
+  "label": "Lịch sử",
+  "color": "#E15454"
+},{
+  "value": "dia",
+  "label": "Địa lý",
+  "color": "#F6A00A"
+},{
+  "value": "sinh",
+  "label": "Sinh học",
+  "color": "#251A57"
+},{
+  "value": "anh",
+  "label": "Tiếng anh",
+  "color": "orange"
+},{
+  "value": "tin",
+  "label": "Tin học",
+  "color": "#251A57"
+},{
+  "value": "gdcd",
+  "label": "Giáo dục công dân",
+  "color": "#0091FF"
+},{
+  "value": "theduc",
+  "label": "Thể dục",
+  "color": "#E15454"
+}]

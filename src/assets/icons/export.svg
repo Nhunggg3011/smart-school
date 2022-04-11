@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Line" transform="translate(0.438 0.859)">
+    <rect id="Rectangle_2019" data-name="Rectangle 2019" width="24" height="24" transform="translate(-0.437 -0.859)" fill="none"/>
+    <g id="Group_5397" data-name="Group 5397" transform="translate(3.39 3.901)">
+      <path id="Path_3334" data-name="Path 3334" d="M44.793,111.56h0a.726.726,0,0,0-.724.724l-.023,3.835H30.752l.023-3.835a.72.72,0,1,0-1.439,0l-.026,4.564a.712.712,0,0,0,.715.715H44.758a.719.719,0,0,0,.724-.715l.026-4.564A.719.719,0,0,0,44.793,111.56Z" transform="translate(-29.31 -102.268)" fill="#414141" stroke="#414141" stroke-width="0.25"/>
+      <path id="Path_3335" data-name="Path 3335" d="M55.172,39.638l3.219-3.182-.052,8.779a.72.72,0,1,0,1.439.008l.052-8.773,3.176,3.213a.719.719,0,0,0,1.017.006h0a.719.719,0,0,0,.006-1.017l-4.4-4.452a.719.719,0,0,0-1.017-.006l-4.452,4.4a.72.72,0,0,0,1.012,1.024Z" transform="translate(-50.994 -34.006)" fill="#414141" stroke="#414141" stroke-width="0.25"/>
+    </g>
+  </g>
+</svg>

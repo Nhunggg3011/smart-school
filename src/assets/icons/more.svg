@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Icon_Set" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 197 197" style="enable-background:new 0 0 197 197;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2933C5;}
+	.st1{fill:none;}
+	.st2{fill:#2933C5;stroke:#2933C5;stroke-width:0.25;stroke-miterlimit:10;}
+	.st3{fill:#2933BC;}
+	.st4{fill:#1CB69A;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#F64066;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M181,196H15c-8.25,0-15-6.75-15-15V15C0,6.75,6.75,0,15,0h166c8.25,0,15,6.75,15,15v166
+			C196,189.25,189.25,196,181,196z"/>
+		<ellipse class="st5" cx="98" cy="98.65" rx="16.12" ry="16.23"/>
+		<ellipse class="st5" cx="40.62" cy="98.65" rx="16.12" ry="16.23"/>
+		<ellipse class="st5" cx="156.67" cy="98.65" rx="16.12" ry="16.23"/>
+	</g>
+	<rect class="st1" width="197" height="197"/>
+	<rect class="st1" width="196" height="196"/>
+</g>
+</svg>
